@@ -1,2 +1,6 @@
 
 .dockerignore
+docker-compose.yml
+*.json
+*.yml
+Dockerfile
